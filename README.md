@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [STX Next](https://www.stxnext.com/)
 
-- 🌱 I’m currently learning **React with Kent C Dodds and Kubernetes with Damian Naprawa**
+- 🌱 Right now I'm learning **React with Kent C Dodds** and **Kubernetes with Damian Naprawa**
 
 - 💬 Ask me about **Blockchain and Ethereum**
 
