@@ -12,7 +12,7 @@
   - **React** with **Kent C Dodds**
   - **Kubernetes** with **Damian Naprawa**
   - **Python Architecture** with **Arjan Egges**
-  - **AWS** with **O'Reilly Books**
+  - **AWS** with **A Cloud Guru**
 
 - 💬 Ask me about **Blockchain and Ethereum**
 
