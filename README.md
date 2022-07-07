@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [STX Next](https://www.stxnext.com/) as a Python Engineer
 
-- 🌱 Right now I'm working on **Frost Shard** (private for now)
+- 🌱 Right now I'm working on [Frost Shard](https://github.com/tobiaxs/frost-shard) and [Python Beginner Roadmap](https://aboard-comma-4b1.notion.site/Python-Beginner-Roadmap-5281adc203724000b24473b5073c6846)
 
 - 🎯 My current learning targets are:
   - Software Architecture
