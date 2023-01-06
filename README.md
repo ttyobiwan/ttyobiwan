@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Tobias</h1>
 <h3>Software Engineer passionate about technology</h3>
 
-🔭 I’m currently working in [Scoutbee](https://scoutbee.com/) as a Backend Engineer
+🔭 I’m currently working at [Scoutbee](https://scoutbee.com/) as a Backend Engineer
 
 🌱 Constantly trying to get better at Python, backend technologies and software architecture
 
