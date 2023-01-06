@@ -1,12 +1,16 @@
 <h1>Hi 👋, I'm Tobias</h1>
 <h3>Software Engineer passionate about technology</h3>
 
-🔭 I’m currently working in [STX Next](https://www.stxnext.com/) as a Backend Engineer
+🔭 I’m currently working in [Scoutbee](https://scoutbee.com/) as a Backend Engineer
+
+🌱 Constantly trying to get better at Python, backend technologies and software architecture
+
+🦀 Too lazy to be good at Rust, or finish private projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tobias_devp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tobias_devp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piotr-tobiasz-wro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piotr-tobiasz-wro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/piotr-tobiasz-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piotr-tobiasz-wro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
