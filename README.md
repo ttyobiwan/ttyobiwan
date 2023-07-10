@@ -1,15 +1,14 @@
 <h1>Hi 👋, I'm Piotr</h1>
-<h3>Software Engineer passionate about technology</h3>
+<h3>Software Engineer from Poland</h3>
 
 🔭 I’m currently working at [Scoutbee](https://scoutbee.com/) as a Backend Engineer
 
-🌱 Constantly trying to get better at Python, backend technologies, and software design and architecture
+🌱 Building backend stuff with Python and Go
 
-📚 In free time, working on Go projects and Python articles
+📚 In free time, writing some technical articles
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">If you want to know more, check out my profile on <a href="https://hackmd.io/@tobias-piotr/me" target="blank">HackMD</a>, or LinkedIn:</h3>
 <p align="left">
-<a href="https://twitter.com/tobias_piotr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tobias_piotr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/piotr-tobiasz-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piotr-tobiasz-dev" height="30" width="40" /></a>
 </p>
 
