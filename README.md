@@ -5,6 +5,8 @@
 
 🌱 Building backend stuff with Python and Go
 
+🔍 Interested in concurrency, operating systems and distributed services
+
 📚 In free time, writing some technical articles
 
 <h4 align="left">If you want to know more, check out my <a href="https://tobias-piotr.github.io/" target="_blank">website</a>, or <a href="https://linkedin.com/in/piotr-tobiasz-dev" target="_blank">LinkedIn</a></h4>
