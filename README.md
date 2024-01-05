@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Piotr</h1>
 <h3>Software Engineer from Poland</h3>
 
-🔭 I’m currently working at [Scoutbee](https://scoutbee.com/) as a Backend Engineer
+🔭 Currently working at [Scoutbee](https://scoutbee.com/) as a Backend Engineer
 
 🌱 Building backend stuff with Python and Go
 
-🔍 Interested in concurrency, operating systems and distributed services
+🔍 Interested in concurrency, operating systems, and distributed services
 
 📚 In free time, writing some technical articles
 
