@@ -1,8 +1,9 @@
 <pre>
 ┌─ PIOTR TOBIASZ ──────────────────────────────────────────────────────┐
 │                                                                      │
-│  Software Engineer · Poland · 6+ years · remote                      │
-│  Currently at Appunite                                               │
+│  Software Engineer · 6+ years of experience                          │
+│  Poland based · working remotely                                     │
+│  Currently @ Appunite                                                │
 │                                                                      │
 ├─ STACK ──────────────────────────────────────────────────────────────┤
 │                                                                      │
@@ -16,9 +17,10 @@
 │  Software aesthetics, pragmatic craftsmanship,                       │
 │  latency reduction, high concurrency                                 │
 │                                                                      │
-├─ PERIPHERALS ────────────────────────────────────────────────────────┤
+├─ INTERESTS ──────────────────────────────────────────────────────────┤
 │                                                                      │
-│  Split keyboards, programming fonts, Japanese watches                │
+│  Split keyboards · programming fonts · Japanese watches              │
+│  martial arts · history books · video games                          │
 │                                                                      │
 ├─ CONTACT ────────────────────────────────────────────────────────────┤
 │                                                                      │
