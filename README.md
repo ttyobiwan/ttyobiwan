@@ -3,12 +3,12 @@
 │                                                                      │
 │  Software Engineer · 6+ years of experience                          │
 │  Poland based · working remotely                                     │
-│  Currently @ Appunite                                                │
+│  Currently forward deployed                                          │
 │                                                                      │
 ├─ STACK ──────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  Languages    Python, Go, Elixir                                     │
-│  Backend      Django, FastAPI, Phoenix                               │
+│  Languages    Elixir, Python, Go                                     │
+│  Backend      Phoenix, Django, FastAPI                               │
 │  Data         PostgreSQL, SQLite, Redis                              │
 │  Jobs         Celery, Temporal, Oban                                 │
 │                                                                      │
